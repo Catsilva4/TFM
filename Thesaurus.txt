@@ -1,0 +1,9 @@
+label,replace by
+AI,artificial intelligence
+ML,machine learning
+deep-learning,	deep learning
+neural network,	neural networks
+llms,llm
+large language model, llm
+auroc, auc
+open access article, open access
